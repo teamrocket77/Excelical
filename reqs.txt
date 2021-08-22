@@ -1,0 +1,22 @@
+appdirs @ file:///private/tmp/nix-build-python3.9-appdirs-1.4.4.drv-0/appdirs-1.4.4/dist/appdirs-1.4.4-py2.py3-none-any.whl
+arrow==0.14.7
+distlib @ file:///private/tmp/nix-build-python3.9-distlib-0.3.2.drv-0/distlib-0.3.2/dist/distlib-0.3.2-py3-none-any.whl
+et-xmlfile==1.1.0
+filelock @ file:///private/tmp/nix-build-python3.9-filelock-3.0.12.drv-0/filelock-3.0.12/dist/filelock-3.0.12-py3-none-any.whl
+grpcio @ file:///private/tmp/nix-build-python3.9-grpcio-1.39.0.drv-0/source/dist/grpcio-1.39.0-cp39-cp39-macosx_10_10_x86_64.whl
+ics==0.7
+importlib-metadata @ file:///private/tmp/nix-build-python3.9-importlib-metadata-4.0.1.drv-0/importlib_metadata-4.0.1/dist/importlib_metadata-4.0.1-py3-none-any.whl
+more-itertools @ file:///private/tmp/nix-build-python3.9-more-itertools-8.8.0.drv-0/more-itertools-8.8.0/dist/more_itertools-8.8.0-py3-none-any.whl
+openpyxl==3.0.7
+packaging @ file:///private/tmp/nix-build-python3.9-packaging-20.9.drv-0/packaging-20.9/dist/packaging-20.9-py2.py3-none-any.whl
+pluggy @ file:///private/tmp/nix-build-python3.9-pluggy-0.13.1.drv-0/pluggy-0.13.1/dist/pluggy-0.13.1-py2.py3-none-any.whl
+protobuf @ file:///private/tmp/nix-build-python3.9-protobuf-3.17.3.drv-0/source/python/dist/protobuf-3.17.3-py2.py3-none-any.whl
+py @ file:///private/tmp/nix-build-python3.9-py-1.10.0.drv-0/py-1.10.0/dist/py-1.10.0-py2.py3-none-any.whl
+pyparsing @ file:///private/tmp/nix-build-python3.9-pyparsing-2.4.7.drv-0/source/dist/pyparsing-2.4.7-py2.py3-none-any.whl
+python-dateutil==2.8.2
+six @ file:///private/tmp/nix-build-python3.9-six-1.16.0.drv-0/six-1.16.0/dist/six-1.16.0-py2.py3-none-any.whl
+TatSu==5.6.1
+toml @ file:///private/tmp/nix-build-python3.9-toml-0.10.2.drv-0/toml-0.10.2/dist/toml-0.10.2-py2.py3-none-any.whl
+tox @ file:///private/tmp/nix-build-python3.9-tox-3.23.1.drv-0/tox-3.23.1/dist/tox-3.23.1-py2.py3-none-any.whl
+virtualenv @ file:///private/tmp/nix-build-python3.9-virtualenv-20.4.7.drv-0/virtualenv-20.4.7/dist/virtualenv-20.4.7-py2.py3-none-any.whl
+zipp @ file:///private/tmp/nix-build-python3.9-zipp-3.4.1.drv-0/zipp-3.4.1/dist/zipp-3.4.1-py3-none-any.whl
